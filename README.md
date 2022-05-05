@@ -11,7 +11,7 @@
 
 200 மில்லியன் சொற்களை சேர்ப்பது இலக்கு.
 
-இது வரை 2,19,161 சொற்கள் சேர்க்கப் பட்டுள்ளன.
+இது வரை  3,20,448 சொற்கள் சேர்க்கப் பட்டுள்ளன.
 
 தொடர்ந்து புது சொற்கள் இலக்கணக் குறிப்புகளுடன் சேர்க்கப் படும்.
 
@@ -24,7 +24,7 @@
 
 This repo is to release the Annotated Corpus for 200 million tamil words.
 
-Currently there are have 2,19,161 words tagged as total.
+Currently there are have 3,20,448 words tagged as total.
 
 Linguistics Tags are used here to annotate the words.
 
@@ -42,3 +42,8 @@ for entire content in plaintext format.
 
 - Add explanation for the Tags used
 
+# Contributors
+
+## James, Tamil Virtual Academy - Lead
+## Nithyatharsni T - Tamil Virtual Academy - Tagger
+## T Shrinivasan - Publishing at this github repo
